@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب العمر</string>
+    <string name="Age_btn">اختار عمرك</string>
+    <string name="age_txt">عمرك هو</string>
+    <string name="Day_txt">يوم</string>
+    <string name="Month_txt">شهر</string>
+    <string name="Year_txt">سنه</string>
+</resources>
